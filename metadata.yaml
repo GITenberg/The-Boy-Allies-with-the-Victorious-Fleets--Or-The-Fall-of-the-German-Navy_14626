@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '1939'
     url: http://www.gutenberg.org/2009/agents/1939
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14626#The-Boy-Allies-with-the-Victorious-Fleets--Or-The-Fall-of-the-German-Navy
 gutenberg_bookshelf:
 - World War I
 - Children's Book Series
